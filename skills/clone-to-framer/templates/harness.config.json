@@ -1,0 +1,10 @@
+{
+  "plataforma": "framer",
+  "proyecto": { "nombre": "", "url_editor": "", "rama": "" },
+  "figma": { "fileKey": "", "secciones": { "escritorio": "", "movil": "" } },
+  "preview": { "url": "" },
+  "anchos": [1440, 390],
+  "umbral_pass": 8.5,
+  "max_vueltas": 5,
+  "linea_base_publicacion": null
+}
